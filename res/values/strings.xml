@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">ImIntent</string>
+    <string name="app_name">web</string>
+    <string name="hobby">hobby</string>
+    <string name="url_daum">https://m.daum.net/</string>
+    <string name="url_naver">https://m.naver.com/</string>
+    <string name="url_spring">https://192.168.0.143:8080/</string>
 </resources>
